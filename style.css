@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Dragons Gravity';
+  src: url('dragons-gravity.ttf') format('truetype');
+}
+
+h1 {
+  font-family: 'Dragons Gravity';
+}
